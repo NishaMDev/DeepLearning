@@ -1,4 +1,4 @@
-**Short Story Assignment - Short Story Assignment - TLDR: Twin Learning for Dimensionality Reduction using Neural Network**
+**Short Story Assignment - Short Story Assignment - Automated Parkinson’s Disease Detection and Affective Analysis from Emotional EEG Signals using Neural Network**
 
 
 **Medium article link -**
