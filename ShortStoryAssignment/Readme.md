@@ -19,6 +19,7 @@ It performs comparative analysis where both low-level EEG descriptors such as Sp
 Our results reveal that PD patients comprehend arousal better than valence, and amongst emotion categories, fear, disgust and surprise less accurately, and sadness most accurately. 
 
 
+
 **Medium article link -** https://medium.com/@nishamohan.devadiga/automated-parkinsons-disease-detection-and-affective-analysis-from-emotional-eeg-signals-using-38158ab71162
 
 **Presentation on Slideshare -** https://www.slideshare.net/NishaMohanDevadiga/automated-parkinsons-disease-detection-and-affective-analysis-from-emotional-eeg-signals
