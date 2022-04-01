@@ -11,6 +11,11 @@ Our study examines the utility of affective Electroencephalography (EEG) signals
 
 It performs comparative analysis where both low-level EEG descriptors such as Spectral Power Vectors (SPV) and Common Spatial Patterns (CSP) are applied to enable emotion detection and Convolutional Neural Networks (CNNs) are applied to automatically learn cognitive and emotional correlates.
 
+<img src="https://media.giphy.com/media/8ExdHaMMOeJUc/giphy.gif" width=600>
+        Human Emotions.
+        
+
+
 Our results reveal that PD patients comprehend arousal better than valence, and amongst emotion categories, fear, disgust and surprise less accurately, and sadness most accurately. 
 
 
