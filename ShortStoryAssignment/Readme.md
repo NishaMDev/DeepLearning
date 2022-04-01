@@ -3,6 +3,6 @@
 
 **Medium article link -**
 
-**Presentation on Slideshare -** 
+**Presentation on Slideshare -** https://www.slideshare.net/NishaMohanDevadiga/automated-parkinsons-disease-detection-and-affective-analysis-from-emotional-eeg-signals
 
 **Youtube link -**
