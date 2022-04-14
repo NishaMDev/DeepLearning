@@ -4,7 +4,9 @@
                                   Neural Network in Human Brain
  
   <img src="https://media.giphy.com/media/9N2UvCx7wXLnG/giphy.gif" width="800" height="497">
-          
+
+*Disclaimer: Image Source - Google*
+
 ## INTRODUCTION
               
 **PARKINSON’S disease (PD)** is a neurodegenerative disorder of the central nervous system that affects movements, often causing tremors. 
@@ -15,7 +17,9 @@ Our study examines the utility of affective Electroencephalography (EEG) signals
 
 It performs comparative analysis where both low-level EEG descriptors such as Spectral Power Vectors (SPV) and Common Spatial Patterns (CSP) are applied to enable emotion detection and Convolutional Neural Networks (CNNs) are applied to automatically learn cognitive and emotional correlates.
 
-<img src="https://media.giphy.com/media/8ExdHaMMOeJUc/giphy.gif" width="800" height="497">   
+<img src="https://media.giphy.com/media/8ExdHaMMOeJUc/giphy.gif" width="800" height="497">  
+
+*Disclaimer: Image Source - Google*
 
 ## CONCLUSION                                                           
         
