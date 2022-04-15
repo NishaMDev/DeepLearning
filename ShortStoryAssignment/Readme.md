@@ -32,6 +32,6 @@ Our results reveal that PD patients comprehend arousal better than valence, and 
 
 **Medium article link -** https://medium.com/@nishamohan.devadiga/automated-parkinsons-disease-detection-and-affective-analysis-from-emotional-eeg-signals-using-38158ab71162
 
-**Presentation on Slideshare -** https://www.slideshare.net/NishaMohanDevadiga/automated-parkinsons-disease-detection-and-affective-analysis-from-emotional-eeg-signals
+**Presentation on Slideshare -** https://www.slideshare.net/NishaMohanDevadiga/automated-parkinsons-disease-detection-and-affective-analysis-from-emotional-eeg-signals-251589849
 
 **Youtube link -** https://youtu.be/JlU8LDzd3K8
