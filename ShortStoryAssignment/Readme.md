@@ -13,9 +13,9 @@
 
 Characterized by the progressive loss of dopaminergic neurons in the substantia nigra that cause motor dysfunctions. Also, causes cognitive, behavioral and emotional defects.
 
-Our study examines the utility of affective Electroencephalography (EEG) signals to understand emotional differences between PD vs Healthy Controls (HC), and for automated PD detection. 
+ Our study examines the utility of affective Electroencephalography (EEG) signals to understand emotional differences between PD vs Healthy Controls (HC), and for automated PD detection.
 
-It performs comparative analysis where both low-level EEG descriptors such as Spectral Power Vectors (SPV) and Common Spatial Patterns (CSP) are applied to enable emotion detection and Convolutional Neural Networks (CNNs) are applied to automatically learn cognitive and emotional correlates.
+It performs comparative analysis where both **low-level EEG descriptors** such as **Spectral Power Vectors (SPV)** and **Common Spatial Patterns (CSP)** are applied to enable emotion detection and **Convolutional Neural Networks** (CNNs) are applied to automatically learn cognitive and emotional correlates.
 
 <img src="https://media.giphy.com/media/8ExdHaMMOeJUc/giphy.gif" width="800" height="497">  
 
@@ -23,9 +23,8 @@ It performs comparative analysis where both low-level EEG descriptors such as Sp
 
 ## CONCLUSION                                                           
         
+#### *Our results reveal that PD patients comprehend arousal better than valence, and amongst emotion categories, fear, disgust and surprise less accurately, and sadness most accurately.*
 
-
-Our results reveal that PD patients comprehend arousal better than valence, and amongst emotion categories, fear, disgust and surprise less accurately, and sadness most accurately. 
 
 ## LINKS                                                           
 
