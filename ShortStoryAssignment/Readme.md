@@ -19,6 +19,10 @@ It performs comparative analysis where both **low-level EEG descriptors** such a
 
 <img src="https://media.giphy.com/media/8ExdHaMMOeJUc/giphy.gif" width="800" height="497">  
 
+*Ekman Emotions (Sadness, Happiness, Fear, Disgust, Surprise, Anger)*
+
+
+
 *Disclaimer: Image Source - Google*
 
 ## CONCLUSION                                                           
