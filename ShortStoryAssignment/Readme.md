@@ -32,6 +32,7 @@ It performs comparative analysis where both **low-level EEG descriptors** such a
 
 ## LINKS                                                           
 
+**Survey Paper -** https://arxiv.org/pdf/2202.12936.pdf
 
 **Medium article link -** https://medium.com/@nishamohan.devadiga/automated-parkinsons-disease-detection-and-affective-analysis-from-emotional-eeg-signals-using-38158ab71162
 
