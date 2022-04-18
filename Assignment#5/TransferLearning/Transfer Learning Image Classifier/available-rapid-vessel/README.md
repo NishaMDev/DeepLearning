@@ -44,7 +44,7 @@ This simply grabs a reference to a paragraph in the DOM and then prints out the 
 
 
 ### Screenshot of the prediction confidence.
-<img height="800" width="600" alt="image" src="https://user-images.githubusercontent.com/89233753/163881635-bae71c54-ec20-4b8a-ac66-69e79542515f.png">
+<img height="600" width="800" alt="image" src="https://user-images.githubusercontent.com/89233753/163881635-bae71c54-ec20-4b8a-ac66-69e79542515f.png">
 
 
 -------------------
