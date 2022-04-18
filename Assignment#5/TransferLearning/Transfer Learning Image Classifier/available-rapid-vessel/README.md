@@ -42,5 +42,7 @@ Nothing to see here. Just styles to make the demo look prettier. You can use or 
 
 This simply grabs a reference to a paragraph in the DOM and then prints out the TensorFlow.js version number to it once loaded.
 
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/89233753/163881635-bae71c54-ec20-4b8a-ac66-69e79542515f.png">
+
 
 -------------------
