@@ -1,4 +1,4 @@
-art 1: 
+Part 1: 
 
 A) Write a colab/colabs where you will use advanced Keras deep learning constructs concepts
 
