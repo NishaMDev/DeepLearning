@@ -45,3 +45,6 @@ and in github provide all the artifacts and screenshots of your work (do not cop
 **d)** Webapp and audio training on device : TensorFlow.js - Audio recognition using transfer learning (https://codelabs.developers.google.com/codelabs/tensorflowjs-audio-codelab?hl=en#0 (Links to an external site.))
 
 **e)** Using out of box sdk to do ML ondevice : Use ML Kit to perform Recognize text and facial features with ML Kit: Android (Links to an external site.), and Recognize, Identify Language and Translate text with ML Kit and CameraX: Android
+
+https://codelabs.developers.google.com/codelabs/mlkit-android?hl=en#0
+https://codelabs.developers.google.com/codelabs/mlkit-android-translate?hl=en#4
