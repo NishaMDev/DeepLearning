@@ -1,4 +1,4 @@
-Part 1: 
+# Part 1: 
 
 A) Write a colab/colabs where you will use advanced Keras deep learning constructs concepts
 
@@ -29,18 +29,19 @@ x) Custom optimizer (See MyMomentumOptimizer in above link)
 xi) Custom Training Loop (see 13 section for fashion mnist in above link)
 
 
-Part 2 : 
+# Part 2 : 
 
 Do the below codelabs to exercise your ondevice ML skills
 
 and in github provide all the artifacts and screenshots of your work (do not copy from codelab the screenshot - i would like to see it running on your computer screenshot )
 
-a) Mobile App and Image training on device: Build and deploy a custom object detection model using tflite on android simulator (https://developers.google.com/codelabs/tflite-object-detection-android?hl=en#0 (Links to an external site.))
+**a)** Mobile App and Image training on device: Build and deploy a custom object detection model using tflite on android simulator (https://developers.google.com/codelabs/tflite-object-detection-android?hl=en#0 (Links to an external site.))
 
-b) Mobile app and audio training on device : Build a custom pre-trained Audio Classification model (https://developers.google.com/codelabs/tflite-audio-classification-custom-model-android?hl=en#0 (Links to an external site.))
 
-c) Web app and image training on device: TensorFlow.js Transfer Learning Image Classifier (https://codelabs.developers.google.com/codelabs/tensorflowjs-teachablemachine-codelab?hl=en#0 (Links to an external site.))
+**b)** Mobile app and audio training on device : Build a custom pre-trained Audio Classification model (https://developers.google.com/codelabs/tflite-audio-classification-custom-model-android?hl=en#0 (Links to an external site.))
 
-d) Webapp and audio training on device : TensorFlow.js - Audio recognition using transfer learning (https://codelabs.developers.google.com/codelabs/tensorflowjs-audio-codelab?hl=en#0 (Links to an external site.))
+**c)** Web app and image training on device: TensorFlow.js Transfer Learning Image Classifier (https://codelabs.developers.google.com/codelabs/tensorflowjs-teachablemachine-codelab?hl=en#0 (Links to an external site.))
 
-e) Using out of box sdk to do ML ondevice : Use ML Kit to perform Recognize text and facial features with ML Kit: Android (Links to an external site.), and Recognize, Identify Language and Translate text with ML Kit and CameraX: Android
+**d)** Webapp and audio training on device : TensorFlow.js - Audio recognition using transfer learning (https://codelabs.developers.google.com/codelabs/tensorflowjs-audio-codelab?hl=en#0 (Links to an external site.))
+
+**e)** Using out of box sdk to do ML ondevice : Use ML Kit to perform Recognize text and facial features with ML Kit: Android (Links to an external site.), and Recognize, Identify Language and Translate text with ML Kit and CameraX: Android
