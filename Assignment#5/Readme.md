@@ -18,16 +18,22 @@ PART_B_a)_Train_a_salad_detector_with_TFLite_Model_Maker.ipynb
  Screenshots in the Word Document - OnDevice ML Assignment Part - B
 
 **b)** Mobile app and audio training on device : Build a custom pre-trained Audio Classification model.
+
 PART_B_b)_Model_maker_audio_colab.ipynb
+
 Folder - birds_models
+
 Screenshots in the Word Document - OnDevice ML Assignment Part - B
 
-**c)** Web app and image training on device: TensorFlow.js Transfer Learning Image Classifier 
+**c)** Web app and image training on device: TensorFlow.js Transfer Learning Image Classifier.
+
 _Screenshots in the Word Document - OnDevice ML Assignment Part - B
 
-**d)** Webapp and audio training on device : TensorFlow.js - Audio recognition using transfer learning 
+**d)** Webapp and audio training on device : TensorFlow.js - Audio recognition using transfer learning.
+
 _Screenshots in the Word Document - OnDevice ML Assignment Part - B
 
-**e)** Using out of box sdk to do ML ondevice : Use ML Kit to perform Recognize text and facial features with ML Kit: Android , and Recognize, Identify Language and Translate text with ML Kit and CameraX: Android
+**e)** Using out of box sdk to do ML ondevice : Use ML Kit to perform Recognize text and facial features with ML Kit: Android , and Recognize, Identify Language and Translate text with ML Kit and CameraX: Android.
+
 _Screenshots in the Word Document - OnDevice ML Assignment Part - B
 
