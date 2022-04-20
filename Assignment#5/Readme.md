@@ -2,7 +2,7 @@
 
 A) Write a colab/colabs where you will use advanced Keras deep learning constructs concepts
 
-
+PART_A_Custom_Modeling.ipynb
 
 
 
